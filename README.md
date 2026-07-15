@@ -34,7 +34,7 @@ BLUSHE is a cosmetic and skincare landing page featuring:
 
 - HTML5
 - CSS3
-- Tailwind CSS (CDN)
+- Bootstrap
 - Flexbox
 - CSS Grid
 
@@ -68,7 +68,7 @@ BLUSHE/
 - Call-to-action button
 - Featured product gallery
 
-### 🌿 About / Features
+### 🌿 AboutUs
 - Dermatologist Tested
 - Clean Ingredients
 - Vegan Formula
@@ -77,8 +77,10 @@ BLUSHE/
 
 ### ⭐ Customer Reviews
 Displays testimonials from satisfied customers.
-
-### 💎 Pricing Plans
+## 🛒 Products
+-Displays all type of products
+-Search Box
+### 💎 Packings
 Three pricing options:
 
 - Starter
