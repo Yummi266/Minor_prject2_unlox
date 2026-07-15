@@ -45,16 +45,14 @@ BLUSHE is a cosmetic and skincare landing page featuring:
 ```
 BLUSHE/
 │
-├── Home.html
+├── index.html
+|__ product.html
+|
 ├── css/
 │   └── style.css
 │
 ├── pic/
-│   ├── high1.jpg
-│   ├── high2.jpg
-│   ├── high3.jpg
-│   └── high4.jpg
-│
+│   
 └── README.md
 ```
 
